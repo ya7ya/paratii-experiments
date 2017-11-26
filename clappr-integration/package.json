@@ -19,6 +19,8 @@
     "webpack-stream": "^4.0.0"
   },
   "dependencies": {
-    "clappr": "^0.2.78"
+    "clappr": "^0.2.78",
+    "hlsjs-ipfs-loader": "github:ya7ya/hlsjs-ipfs-loader#master",
+    "ipfs": "github:ya7ya/js-ipfs#paratii/master"
   }
 }
